@@ -11,7 +11,6 @@ import {
   ButtonGroup,
   HStack,
 } from "@chakra-ui/react";
-import Marquee from "react-fast-marquee";
 interface Props{
     imagePic:string;
     imageName:string;
